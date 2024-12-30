@@ -84,5 +84,13 @@ Supervised Learning
 True Condition | Condition Positive | True Positive (TP) | False Negative (FN) (type II error)
 True Condition | Condition Negative | False Positive (FP) (type I error) |  True Negative (TN)
 
+[Confusion Matrix Wiki](https://en.wikipedia.org/wiki/Confusion_matrix)
 ![Confusion Matrix](https://www.unite.ai/wp-content/uploads/2019/12/Preventive_Medicine-e1576294312614.png)
 
+### Evaluating Performance - Regression Error Metrics
+
+- Regression is a task when a model attempts to predict continuous values (unlike categorical values, which is classification).
+
+#### Key Classifiacation Metrics
+
+##### 
