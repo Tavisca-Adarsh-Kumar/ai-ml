@@ -93,4 +93,20 @@ True Condition | Condition Negative | False Positive (FP) (type I error) |  True
 
 #### Key Classifiacation Metrics
 
-##### 
+##### [Mean Absolute Erro - MAE](https://en.wikipedia.org/wiki/Mean_absolute_error)
+
+- Mean of the absolute value of the errors
+- It won't punish large errors, however.
+- ![Mean Absolute Error](https://wikimedia.org/api/rest_v1/media/math/render/svg/3ef87b78a9af65e308cf4aa9acf6f203efbdeded)
+
+##### [Mean Squared Error - MSE](https://en.wikipedia.org/wiki/Mean_squared_error)
+
+- Mean of the squared errors
+- Larger errors are noted more than with MAE, making it more popular.
+- ![MSE](https://wikimedia.org/api/rest_v1/media/math/render/svg/92ea807c3147d94e8762772be5d12511f1d55938)
+
+##### [Root Mean Square Error - RMSE](https://en.wikipedia.org/wiki/Root_mean_square_deviation)
+
+- Root of the mean of the squared errors
+- Most popular (has same units as y)
+- ![RMSE](https://wikimedia.org/api/rest_v1/media/math/render/svg/e200c7728fb7996b3e3245a9d41ec5798367775b)
